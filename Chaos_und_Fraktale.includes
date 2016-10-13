@@ -1,0 +1,12 @@
+3rdparty/include/GL
+3rdparty/include/opencv
+3rdparty/include/opencv2/core
+3rdparty/include/opencv2/flann
+3rdparty/include/opencv2/highgui
+3rdparty/include/opencv2/imgproc
+3rdparty/include/opencv2/photo
+3rdparty/include/opencv2/ts
+3rdparty/required_include
+cmake/share/cmake-3.4/include
+cmake/share/cmake-3.4/Modules
+include
